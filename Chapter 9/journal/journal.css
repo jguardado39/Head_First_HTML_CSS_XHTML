@@ -14,3 +14,7 @@ h1, h2 {
 h2 {
 	font-size: 130%;
 }
+
+blockquote {
+	font-style: italic;
+}
