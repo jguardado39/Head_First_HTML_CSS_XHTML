@@ -3,12 +3,14 @@ body {
 	font-size: small;
 }
 
-h1 {
-	font-size: 170%;
-}
-
 h1, h2 {
 	font-weight: normal;
+	color: #cc6600;
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: 170%;
 }
 
 h2 {
