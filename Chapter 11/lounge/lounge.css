@@ -51,3 +51,11 @@ h2 {
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
 }
+
+#elixirs h2 {
+  color: black;
+}
+
+#elixirs h3 {
+  color: #d12c47;
+}
