@@ -70,14 +70,15 @@ h2 {
   font-weight: bold;
 }
 
-a:link {
-  color: green;
+#elixirs a:link {
+  color: #007e7e;
 }
 
-a:vistied {
-  color: red;
+#elixirs a:vistied {
+  color: #333333;
 }
 
-a:hover {
-  color: yellow;
+#elixirs a:hover {
+  background: #f88396;
+  color: #0d5353;
 }
